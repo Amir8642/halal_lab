@@ -1,0 +1,172 @@
+.procents{
+    width: 100%;
+    height: 950px;
+
+    .weather{
+        width: 843px;
+        height: 184px;
+        margin: 80px 298.5px 0px 285.5px;
+        margin-bottom: 100px;
+
+        h2{
+            font-size: 48px;
+            font-weight: 400;
+            line-height: 52px;
+            letter-spacing: -2.4000000953674316px;
+            text-align: center;            
+        }
+
+        span{
+            opacity: 75%;
+            font-size: 17.66px;
+            font-weight: 400;
+            line-height: 28px;
+            letter-spacing: -0.20000000298023224px;
+            text-align: center;            
+        }
+    }
+
+    .block{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+        gap: 81px;
+
+        .block2{
+            width: 456px;
+            height: 420px;
+            gap: 24px;
+            display: block;
+
+            .goat1{
+                width: 456px;
+                height: 164px;
+                padding: 32px 40px 32px 40px;
+                gap: 16px;
+                border-radius: 12px;
+                border: 1px solid black;
+                margin-bottom: 24px;
+
+                .hz{
+                    display: flex;
+                    align-items: center;
+                    gap: 16px;
+                    margin-bottom: 16px;      
+
+                    .border{
+                        width: 40px;
+                        height: 40px;
+                        background-color: #DBF4FF;
+                        border-radius: 100%;
+                        border: 1px solid black;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+    
+                        p{
+                            font-size: 21px;
+                            font-weight: 600;
+                            line-height: 28px;
+                            letter-spacing: -0.23999999463558197px;
+                            text-align: left;                        
+                        }
+                    }
+                }
+
+                span{
+                    opacity: 75%;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 22px;
+                    text-align: left;                    
+                }
+            }
+        }
+
+        .goat2{
+            width: 456px;
+            height: 104px;
+            padding: 32px 40px 32px 40px;
+            gap: 16px;
+            border-radius: 12px;
+            border: 1px solid black;  
+            margin-bottom: 24px; 
+            
+            .hz1{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 16px;
+
+                .border1{
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 100%;
+                    border: 1px solid black;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    p{
+                        font-size: 21px;
+                        font-weight: 600;
+                        line-height: 28px;
+                        letter-spacing: -0.23999999463558197px;
+                        text-align: left;                                                                     
+                    }
+
+                    h2{
+                        font-size: 21px;
+                        font-weight: 600;
+                        line-height: 28px;
+                        letter-spacing: -0.23999999463558197px;
+                        text-align: left;                        
+                    }
+                }
+            }
+        }
+
+        .goat3{
+            width: 456px;
+            height: 104px;
+            padding: 32px 40px 32px 40px;
+            gap: 16px;
+            border-radius: 12px;
+            border: 1px solid black;   
+            
+            .hz2{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 16px;
+
+                .border2{
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 100%;
+                    border: 1px solid black;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    p{
+                        font-size: 21px;
+                        font-weight: 600;
+                        line-height: 28px;
+                        letter-spacing: -0.23999999463558197px;
+                        text-align: left;                                                                     
+                    }
+
+                    h2{
+                        font-size: 21px;
+                        font-weight: 600;
+                        line-height: 28px;
+                        letter-spacing: -0.23999999463558197px;
+                        text-align: left;                        
+                    }
+                }
+            }
+        }
+    }
+}
